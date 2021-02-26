@@ -1,0 +1,38 @@
+.Trends{
+    background: rgb(30, 30, 30);
+    
+}
+.abbrevations{
+    background: rgb(49, 49, 49);
+    border-radius: 15px;
+    height: 65%;
+    font-size: 55%;
+    top: 21px;
+    padding: 27px 14px;
+    width: 75%;
+    right: -25px;
+    position: relative;
+    text-align: center;
+    
+}
+.abbrevations>h2{
+    
+    font-size: 154%;
+}
+.mat{
+    width:40%
+}
+.mat>h2{
+    position: relative;
+    left: 70%;
+}
+.report{
+    width:40%;
+}
+.news>img{
+    width: 192%;
+    height:auto;
+}
+.news>h3{
+    width:224%;
+}
